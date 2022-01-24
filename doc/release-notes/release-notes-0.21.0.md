@@ -1,20 +1,45 @@
 0.21.0 Release Notes
 ====================
 
-Bitcoin Core version 0.21.0 is now available from:
+Litecoin Core version 0.18.1 is now available from:
 
-  <https://bitcoincore.org/bin/bitcoin-core-0.21.0/>
+  <https://download.litecoin.org/litecoin-0.21.1/>
 
-This release includes new features, various bug fixes and performance
-improvements, as well as updated translations.
+This is a major version release, including new features, various bug
+fixes and performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/bitcoin/bitcoin/issues>
+  <https://github.com/litecoin-project/litecoin/issues>
 
 To receive security and update notifications, please subscribe to:
 
-  <https://bitcoincore.org/en/list/announcements/join/>
+  <https://groups.google.com/forum/#!forum/litecoin-dev>
+  
+  
+Table of Contents
+=================
+
+[Summary](#summary)
+
+[How to Upgrade](#how-to-upgrade)
+
+[Compatibility](#compatibility)
+
+[Known issues](#known-issues)
+
+[Notable changes](#notable-changes)
+
+[Planned changes](#planned-changes)
+
+___
+
+Summary
+==============
+
+This releaase adds Taproot a efficiency and privacy improvement to the Litecoin blockchain. 
+Improvement suggestion come from Bitcoin, Schnoor Signatures [BIP-340](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki), Taproot [BIP-341](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki) and TapScript 
+[BIP-342](https://github.com/bitcoin/bips/blob/master/bip-0342.mediawiki).
 
 How to Upgrade
 ==============
